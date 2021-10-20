@@ -1,0 +1,9 @@
+address*
+contact no*
+gender*
+bod*
+alternate contact no
+full name* replace username
+nationality*(id proof)
+loggo configs
+
