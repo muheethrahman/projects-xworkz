@@ -1,0 +1,5 @@
+sh /opt/tomcat1/bin/startup.sh
+ putty 
+hostname : 103.108.220.4
+username : root
+password : &-5>)^z4%X8N
